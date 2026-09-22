@@ -67,15 +67,15 @@ Working on CRM-based business applications with responsibilities including:
 
 <p align="left">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-shivamydv.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shivam-yadav-927173256">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="shivamydv9889@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -87,11 +87,11 @@ Working on CRM-based business applications with responsibilities including:
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shivam-yadav-927173256">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/devshivam077/devshivam077">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 
